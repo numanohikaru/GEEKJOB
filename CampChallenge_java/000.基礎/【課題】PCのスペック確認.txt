@@ -1,0 +1,8 @@
+【課題】PCのスペック確認
+
+OS	:Windows 10 Home 64bit
+CPU	:Intel(R) Core i5 2.5GHz (4CPUs)
+RAM	:4096MB
+GPU	:Intel(R) HD Graphics 3000 1664MB
+HDD	:148GB
+DirextX	:DirectX 12
